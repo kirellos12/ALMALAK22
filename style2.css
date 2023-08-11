@@ -1,0 +1,17 @@
+
+div{
+    
+    color: rgb(6, 52, 235);
+    direction: rtl;
+    margin: 10px 0;
+    padding: 20px;
+    line-height: 50px;
+    text-align: center;
+    font-size: xx-large;
+
+}
+div.ar{
+    direction: rtl;
+    color: #030000;
+
+}
